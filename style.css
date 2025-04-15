@@ -1,0 +1,78 @@
+.gradient-background {
+  background: linear-gradient(to right, #f24e6b, #7f6fe0);
+  padding: 60px 0;
+}
+
+.iphone-mockup {
+  max-width: 300px;
+  height: auto;
+  padding-top: 5px;
+  padding-bottom: 0; /* No padding at bottom */
+}
+
+.icon-box {
+  background-color: #f1f3f5;
+  border-radius: 0.75rem;
+  padding: 12px;
+  display: inline-block;
+}
+.dog-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.logo-img {
+  height: 30px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+ .card-dark {
+      background-color: #1f1f1f;
+      color: white;
+    }
+    .btn-outline-dark {
+      border-color: #1f1f1f;
+      color: #1f1f1f;
+    }
+    .btn-outline-dark:hover {
+      background-color: #1f1f1f;
+      color: white;
+    }
+
+    .footer {
+      background: linear-gradient(135deg, #ff4b5c, #1e90ff);
+      color: #fff;
+      padding: 60px 0 0 0; /* убрали нижний отступ */
+      border: none; /* убрали границы */
+    }
+
+    .footer h5 {
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+
+    .footer ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .footer ul li {
+      margin-bottom: 10px;
+    }
+
+    .footer ul li a {
+      color: #eee;
+      text-decoration: none;
+    }
+
+    .footer ul li a:hover {
+      text-decoration: underline;
+    }
+
+    .brand {
+      font-size: 1rem;
+      color: #ddd;
+    }
